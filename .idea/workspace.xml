@@ -11,14 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9b07c3c-04a4-454a-bc63-864a8e37479e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/receiver/AlarmReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/receiver/AlarmReceiver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/receiver/SnoozeReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/receiver/SnoozeReceiver.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/MyFirebaseMessagingService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/MyFirebaseMessagingService.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/ui/EggTimerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/ui/EggTimerFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/ui/EggTimerViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/ui/EggTimerViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/util/NotificationUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/eggtimernotifications/util/NotificationUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,21 +138,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1491" height="277" key="GridCell.Tab.0.bottom" timestamp="1596568483234">
+    <state x="449" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596635223630">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596568483234" />
-    <state width="1491" height="277" key="GridCell.Tab.0.center" timestamp="1596568483234">
+    <state x="449" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1596635223630" />
+    <state width="1491" height="277" key="GridCell.Tab.0.bottom" timestamp="1596638208591">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1596568483234" />
-    <state width="1491" height="277" key="GridCell.Tab.0.left" timestamp="1596568483234">
+    <state width="1491" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596638208591" />
+    <state width="1491" height="277" key="GridCell.Tab.0.center" timestamp="1596638208590">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1596568483234" />
-    <state width="1491" height="277" key="GridCell.Tab.0.right" timestamp="1596568483234">
+    <state width="1491" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1596638208590" />
+    <state width="1491" height="277" key="GridCell.Tab.0.left" timestamp="1596638208590">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1491" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1596568483234" />
+    <state width="1491" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1596638208590" />
+    <state width="1491" height="277" key="GridCell.Tab.0.right" timestamp="1596638208590">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1596638208590" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1596633267286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1596633267286" />
   </component>
 </project>
